@@ -2,7 +2,6 @@
 
 Repository ini digunakan untuk pengumpulan tugas mata kuliah Pemograman Visual
 
-<table>
   <tr>
     <td>Nama</td>
     <td>Lisa Agustin</td></td>
