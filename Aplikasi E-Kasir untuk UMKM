@@ -1,0 +1,29 @@
+Deskripsi Proyek:
+Aplikasi E-Kasir adalah sistem Point of Sale (POS) 
+berbasis C# yang dirancang untuk membantu UMKM dalam mengelola transaksi penjualan, 
+manajemen produk, dan laporan keuangan.
+Aplikasi ini akan memiliki antarmuka grafis (GUI) interaktif menggunakan Windows Forms atau WPF,
+serta akan menyimpan data transaksi dan produk menggunakan SQL Server atau SQLite.
+
+  Fitur Utama
+✅ 1. Manajemen Produk
+- Menambah, mengedit, dan menghapus produk.
+- Menyimpan data produk ke database (nama, harga, stok).
+- Menampilkan daftar produk dalam tabel/grid dengan pencarian.
+✅ 2. Sistem Transaksi
+- Input barang secara manual atau dengan barcode scanner.
+- Menampilkan total belanja otomatis berdasarkan produk yang dipilih.
+- Menyediakan opsi metode pembayaran (Tunai, Transfer, QRIS).
+✅ 3. Cetak Struk Otomatis
+- Membuat struk transaksi dalam format PDF.
+- Mencetak struk dengan printer thermal.
+✅ 4. Laporan Penjualan
+- Laporan transaksi harian, mingguan, atau bulanan.
+- Grafik penjualan untuk analisis bisnis sederhana.
+ -Mengekspor laporan ke Excel/PDF.
+
+
+
+
+Aplikasi E-Kasir UMKM berbasis C# ini memiliki fitur utama seperti manajemen produk, transaksi, pencetakan struk, dan laporan penjualan.
+Dengan teknologi C#, Windows Forms/WPF, SQL Server, dan LiveCharts, proyek ini cocok untuk mata kuliah Pemrograman Visual dan bisa dikembangkan lebih lanjut dengan fitur tambahan seperti integrasi QRIS atau cloud database.
